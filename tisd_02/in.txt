@@ -1,0 +1,318 @@
+Tainskaya 79
+43
+1
+113285
+1
+1
+Rublevskoe 70k7
+82
+2
+186474
+1
+0
+Mishina 10
+76
+2
+270710
+1
+1
+Kutuzovskiy 18
+106
+3
+280000
+2
+1970
+4
+5
+0
+Pilota Nesterova 11
+32
+1
+187187
+2
+1987
+3
+1
+1
+Leninskiy 107k1
+70
+2
+221428
+2
+1980
+1
+3
+0
+Orlovo-Davidovskiy 7
+22
+1
+368181
+2
+1998
+1
+2
+1
+Tverskaya-Yamskaya 10
+190
+4
+400000
+2
+2001
+1
+6
+0
+Chernyahovskogo 19
+114
+4
+220085
+1
+0
+Chernyahovskogo 19
+59
+2
+22085
+1
+0
+Shmitovskiy 39
+108
+2
+386111
+1
+0
+Strastnoy 10k1
+149
+3
+499999
+2
+1967
+6
+3
+0
+Michurinskiy 5
+127
+4
+464566
+2
+2006
+1
+4
+1
+2 Frunzenskaya 8
+94
+2
+490000
+2
+2010
+2
+1
+1
+Krasnoselskaya 35
+78
+2
+323050
+1
+1
+Mosfilmovskaya 88k2
+145
+4
+337931
+1
+0
+Hilkov 1
+166
+5
+490000
+2
+1995
+2
+6
+1
+Lomonosovskiy 25k1
+141
+3
+482270
+2
+2010
+1
+4
+1
+Kochnovskiy 4k1
+100
+2
+288845
+2
+2008
+1
+2
+0
+Mitnaya 7k1
+76
+2
+490000
+2
+2013
+1
+1
+0
+Fadeeva 4
+101
+3
+490000
+2
+2003
+1
+3
+0
+Solyanka 1/2
+137
+4
+466472
+2
+1978
+1
+5
+1
+Chertanovskaya 59
+40
+1
+189000
+2
+1999
+1
+2
+1
+Mishina 14 
+76
+2
+270000
+2
+1991
+1
+4
+0
+Shabolovka 23k5
+88
+3
+498000
+2
+1989
+7
+2
+1
+Novoslobodskaya 14
+160
+5
+425000
+2
+1976
+3
+4
+1
+Saikina 19
+58
+2
+189000
+2
+1989
+3
+2
+1
+Gazgoldernaya 3
+91
+3
+176479
+1
+0
+Bolshaya Polyanka 44/2
+79
+2
+499999
+2
+1999
+2
+3
+0
+Suhogo 2k2
+51
+2
+277157
+2
+1999
+3
+2
+1
+Starokrimskaya 13
+86
+2
+124118
+1
+0
+Krasnokazarmennaya 14
+72
+3
+178200
+1
+1
+Hodinskaya 2
+69
+2
+220270
+2
+1993
+2
+2
+0
+Novocheremushkinskaya 34
+69
+2
+297287
+2
+1994
+4
+3
+1
+Sushevskiy Val 49
+86
+4
+286278
+2
+2007
+1
+2
+0
+Sadovnicheskaya 57
+153
+4
+397394
+2
+2000
+1
+4
+0
+Stolyarniy 3k20
+154
+4
+457143
+1
+1
+Novinskiy 25k1
+91
+4
+489890
+1
+1
+Nikoloborobinskiy 9/11
+131
+3
+442926
+1
+1
+Obruchevskiy 38
+116
+3
+387765
+2
+1982
+4
+2
+1
